@@ -1,1 +1,1 @@
-# bike-ajustavel-para-a-tela
+# caçador-de-tesouros-ajustavel-para-a-tela
